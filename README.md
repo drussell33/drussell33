@@ -1,5 +1,5 @@
 # Hi. I'm Derek.
-## Lets get better acquainted.
+Lets get better acquainted.
 
 
 ## &#x1f4c8; GitHub Stats
