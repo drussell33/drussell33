@@ -10,7 +10,13 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=drussell33&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dereks's GitHub Stats" />
 </a>
 
+<a href="https://github.com/drussell33/wou-cs-46x-starlane">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drussell33&repo=wou-cs-46x-starlane&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
+<a href="https://github.com/drussell33/Python-Blockchain">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=drussell33&repo=Python-Blockchain-starlane&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
 
 **drussell33/drussell33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
