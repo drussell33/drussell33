@@ -22,6 +22,14 @@
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 -->
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/drussell33/drussell33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drussell33&hide=java,html,TSQL,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
+</a>
+<a href="https://github.com/drussell33/drussell33">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drussell33&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dereks's GitHub Stats" />
+</a>
 
 ## 👩‍💻 Languages 
 
@@ -39,10 +47,10 @@
 
 ## ⚡ Database
 
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> 
 ![](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" ) 
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" ) 
 ![](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" ) 
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ## 🚀 Frameworks 
@@ -120,14 +128,6 @@
 
 
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/drussell33/drussell33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drussell33&hide=java,html,TSQL,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/drussell33/drussell33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drussell33&show_icons=true&line_height=40&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dereks's GitHub Stats" />
-</a>
 
 <!--
 <a href="https://github.com/drussell33/wou-cs-46x-starlane">
