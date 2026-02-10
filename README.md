@@ -2,6 +2,11 @@
 Lets get better acquainted.
 
 
+## GitHub Stats 
+
+![drussell33's GitHub stats](https://github-readme-stats.vercel.app)
+
+
 ## 👩‍💻 Languages 
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" )
