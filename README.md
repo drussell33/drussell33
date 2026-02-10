@@ -2,15 +2,6 @@
 Lets get better acquainted.
 
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/drussell33/drussell33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drussell33&amp;hide=java,html,TSQL,text&amp;title_color=ffffff&amp;text_color=c9acc8&amp;icon_color=2bbc8a&amp;bg_color=1d1f21&amp;langs_count=5&amp;cache_seconds=86400&amp;v=4" />
-</a>
-<a href="https://github.com/drussell33/drussell33">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drussell33&amp;show_icons=true&amp;line_height=40&amp;title_color=ffffff&amp;text_color=c9acc8&amp;icon_color=2bbc8a&amp;bg_color=1d1f21&amp;cache_seconds=86400&amp;v=4" alt="Derek's GitHub Stats" />
-</a>
-
 ## 👩‍💻 Languages 
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" )
