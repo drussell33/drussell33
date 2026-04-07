@@ -83,7 +83,7 @@ Q-Learning, DQN, A3C, PPO
 
 ### 🔹 Excel Developer Notes (VBA Tool)  
 Structured notes with image support  
-👉 https://github.com/drussell33/excel-notes  
+👉 https://github.com/drussell33/ExcelMacros)
 
 ---
 
